@@ -1,0 +1,153 @@
+.icons-sprite, .icons-ancor, .icons-apple, .icons-cam, .icons-cig, .icons-cloud, .icons-controller, .icons-eye, .icons-girl, .icons-git, .icons-glass, .icons-headphones, .icons-icon2, .icons-icon3, .icons-icons-s1741c5d146, .icons-info, .icons-info2, .icons-info3, .icons-light, .icons-lock, .icons-mail, .icons-man, .icons-micro, .icons-moon, .icons-paly, .icons-plane, .icons-puzzle, .icons-rocket, .icons-speach, .icons-star, .icons-tag, .icons-thumb, .icons-twitter, .icons-youtube {
+  background-image: url('../img/icons-s43e521adcc.png');
+  background-repeat: no-repeat;
+}
+
+.icons-ancor {
+  background-position: 0 0;
+}
+
+.icons-apple {
+  background-position: 0 -300px;
+}
+
+.icons-cam {
+  background-position: 0 -600px;
+}
+
+.icons-cig {
+  background-position: 0 -900px;
+}
+
+.icons-cloud {
+  background-position: 0 -1200px;
+}
+
+.icons-controller {
+  background-position: 0 -1500px;
+}
+
+.icons-eye {
+  background-position: 0 -1800px;
+}
+
+.icons-girl {
+  background-position: 0 -2100px;
+}
+
+.icons-git {
+  background-position: 0 -2400px;
+}
+
+.icons-glass {
+  background-position: 0 -2700px;
+}
+
+.icons-headphones {
+  background-position: 0 -3000px;
+}
+
+.icons-icon2 {
+  background-position: 0 -3300px;
+}
+
+.icons-icon3 {
+  background-position: 0 -3394px;
+}
+
+.icons-icons-s1741c5d146 {
+  background-position: 0 -3488px;
+}
+
+.icons-info {
+  background-position: 0 -4104px;
+}
+
+.icons-info2 {
+  background-position: 0 -4320px;
+}
+
+.icons-info3 {
+  background-position: 0 -4520px;
+}
+
+.icons-light {
+  background-position: 0 -4720px;
+}
+
+.icons-lock {
+  background-position: 0 -5020px;
+}
+
+.icons-mail {
+  background-position: 0 -5320px;
+}
+
+.icons-man {
+  background-position: 0 -5620px;
+}
+
+.icons-micro {
+  background-position: 0 -5920px;
+}
+
+.icons-moon {
+  background-position: 0 -6220px;
+}
+
+.icons-paly {
+  background-position: 0 -6520px;
+}
+
+.icons-plane {
+  background-position: 0 -6820px;
+}
+
+.icons-puzzle {
+  background-position: 0 -7120px;
+}
+
+.icons-rocket {
+  background-position: 0 -7420px;
+}
+
+.icons-speach {
+  background-position: 0 -7720px;
+}
+
+.icons-star {
+  background-position: 0 -8020px;
+}
+
+.icons-tag {
+  background-position: 0 -8320px;
+}
+
+.icons-thumb {
+  background-position: 0 -8620px;
+}
+
+.icons-twitter {
+  background-position: 0 -8920px;
+}
+
+.icons-youtube {
+  background-position: 0 -9220px;
+}
+
+li {
+  list-style: none;
+  display: inline-block;
+  padding: 10 px;
+}
+li a {
+  display: inline-block;
+  width: 300px;
+  height: 300px;
+  border:1px solid #021a40;
+}
+li a span {
+  position: absolute;
+  top: -99999em;
+  left: -99999em;
+}
